@@ -1,4 +1,5 @@
 title: pjocke.cloud
+theme: minimal-mistakes-jekyll
 show_downloads: false
 is_user_page: true
 is_project_page: false
