@@ -1,6 +1,7 @@
 ---
 title: Test post
 date: 2022-10-21
+author_profile: true
 ---
 # Hello
 
