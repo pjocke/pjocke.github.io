@@ -1,1 +1,5 @@
+title: pjocke.cloud
 theme: jekyll-theme-hacker
+show_downloads: false
+is_user_page: true
+is_project_page: false
