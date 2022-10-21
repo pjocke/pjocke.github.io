@@ -1,6 +1,7 @@
 ---
-title: Test post
+title: "Hello world"
 date: 2022-10-21
+author: "pjocke"
 author_profile: true
 ---
 # Hello
