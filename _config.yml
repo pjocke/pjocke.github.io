@@ -5,14 +5,13 @@ plugins:
 show_downloads: false
 is_user_page: true
 is_project_page: false
-default:
+defaults:
   - scope:
-      path:
+      path: ""
       type: posts
     values:
       author_profile: true
 author:
-  name: "Joakim Bomelin
+  name: "Joakim Bomelin"
   bio: "Noot, noot!"
-  location: "Malmö, Sweden"
-
+location: "Malmö, Sweden"
